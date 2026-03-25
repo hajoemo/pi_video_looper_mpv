@@ -55,7 +55,7 @@ Works on Pi 3B+, 4B, 5, and Zero 2W.
 ```bash
 sudo apt-get install git
 cd ~
-git clone https://github.com/your-username/mpv_video_looper
+git clone https://github.com/hajoemo/pi_video_looper_mpv
 cd mpv_video_looper
 sudo ./install.sh
 ```
@@ -72,7 +72,7 @@ sudo cp /boot/video_looper.ini /boot/video_looper.ini_backup
 
 cd ~
 sudo rm -rf mpv_video_looper
-git clone https://github.com/your-username/mpv_video_looper
+git clone https://github.com/hajoemo/pi_video_looper_mpv
 cd mpv_video_looper
 sudo ./install.sh
 ```
