@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:120,My First Video
+first_video.mp4
+#EXTINF:90,Second Clip
+second_video.mp4
+#EXTINF:-1,Seamless Loop
+loop_repeat_3x.mp4
